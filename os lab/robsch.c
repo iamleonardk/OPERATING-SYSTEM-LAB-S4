@@ -1,7 +1,8 @@
 #include<stdio.h> 
 int TRUE = 0; 
 int FALSE = -1; 
-int tbt[30],bt[30],tat[30],n=0,wt[30],qt=0,tqt=0,time=0,lmore,t_tat=0,t_wt=0; void main() 
+int tbt[30],bt[30],tat[30],n=0,wt[30],qt=0,tqt=0,time=0,lmore,t_tat=0,t_wt=0; 
+void main() 
 { 
 int i,j; 
 printf("\nEnter no. of processors:"); 
